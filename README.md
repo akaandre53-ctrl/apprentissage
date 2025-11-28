@@ -1,2 +1,4 @@
-# apprentissage
-J'apprend à mon pote comment ca se passe.
+# lab-programmation
+Ce Lab est une initiation à la programmation et à l'utilisation de GitHub.
+
+Le premier fichier est mon index.html
